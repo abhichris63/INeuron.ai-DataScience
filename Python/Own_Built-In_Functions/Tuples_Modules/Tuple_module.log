@@ -1,0 +1,27 @@
+ 2023-02-24 21:30:44,324 DEBUG diff parser start 
+ 2023-02-24 21:30:44,325 DEBUG line_lengths old: 1; new: 1 
+ 2023-02-24 21:30:44,326 DEBUG -> code[replace] old[1:1] new[1:1] 
+ 2023-02-24 21:30:44,327 DEBUG parse_part from 1 to 1 (to 0 in part parser) 
+ 2023-02-24 21:30:44,327 DEBUG diff parser end 
+ 2023-02-24 21:34:27,591 DEBUG diff parser start 
+ 2023-02-24 21:34:27,592 DEBUG line_lengths old: 1; new: 1 
+ 2023-02-24 21:34:27,593 DEBUG -> code[replace] old[1:1] new[1:1] 
+ 2023-02-24 21:34:27,595 DEBUG parse_part from 1 to 1 (to 0 in part parser) 
+ 2023-02-24 21:34:27,596 DEBUG diff parser end 
+ 2023-02-24 21:34:27,820 DEBUG pickle loaded: C:\Users\ADMIN\Anaconda\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi 
+ 2023-02-24 21:34:28,016 DEBUG pickle loaded: C:\Users\ADMIN\Anaconda\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi 
+ 2023-02-24 21:34:28,675 DEBUG diff parser start 
+ 2023-02-24 21:34:28,676 DEBUG line_lengths old: 1; new: 1 
+ 2023-02-24 21:34:28,676 DEBUG -> code[replace] old[1:1] new[1:1] 
+ 2023-02-24 21:34:28,677 DEBUG parse_part from 1 to 1 (to 0 in part parser) 
+ 2023-02-24 21:34:28,677 DEBUG diff parser end 
+ 2023-02-24 21:34:31,080 DEBUG diff parser start 
+ 2023-02-24 21:34:31,081 DEBUG line_lengths old: 1; new: 1 
+ 2023-02-24 21:34:31,082 DEBUG -> code[replace] old[1:1] new[1:1] 
+ 2023-02-24 21:34:31,083 DEBUG parse_part from 1 to 1 (to 0 in part parser) 
+ 2023-02-24 21:34:31,084 DEBUG diff parser end 
+ 2023-02-24 21:34:34,110 DEBUG diff parser start 
+ 2023-02-24 21:34:34,111 DEBUG line_lengths old: 1; new: 1 
+ 2023-02-24 21:34:34,113 DEBUG -> code[replace] old[1:1] new[1:1] 
+ 2023-02-24 21:34:34,115 DEBUG parse_part from 1 to 1 (to 0 in part parser) 
+ 2023-02-24 21:34:34,116 DEBUG diff parser end 
